@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713814352 source:c:\users\softland\desktop\oop projects\guess game tne number\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
